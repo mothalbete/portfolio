@@ -1,0 +1,56 @@
+[
+  {
+    "name": "juegos-js",
+    "description": "Colección de minijuegos en JavaScript.",
+    "github": "https://github.com/mothalbete/juegos-js",
+    "demo": "https://mothalbete.github.io/juegos-js/"
+  },
+  {
+    "name": "canva",
+    "description": "Pequeño proyecto del típico juego de una pelota que rebota.",
+    "github": "https://github.com/mothalbete/canva",
+    "demo": "https://mothalbete.github.io/canva/"
+  },
+  {
+    "name": "dexpositorio",
+    "description": "Un concentrado de aplicaciones hechas con PokeAPI.",
+    "github": "https://github.com/mothalbete/dexpositorio",
+    "demo": "https://mothalbete.github.io/dexpositorio/"
+  },
+  {
+    "name": "applibros",
+    "description": "Una aplicación para gestionar una colección de libros.",
+    "github": "https://github.com/mothalbete/AppLibros",
+    "demo": null
+  },
+  {
+    "name": "agenda_contactos",
+    "description": "Una aplicación para gestionar una agenda de contactos.",
+    "github": "https://github.com/mothalbete/agenda_contactos",
+    "demo": null
+  },
+  {
+    "name": "ahorcado",
+    "description": "Un juego clásico del ahorcado.",
+    "github": "https://github.com/mothalbete/ahorcado",
+    "demo": null
+  },
+  {
+    "name": "formacomempleolaravel",
+    "description": "Una app de prueba de Laravel para encontrar y solicitar trabajo.",
+    "github": "https://github.com/mothalbete/formacomempleolaravel",
+    "demo": null
+  },
+  {
+    "name": "merblog",
+    "description": "Un blog personal para compartir pensamientos y experiencias.",
+    "github": "https://github.com/mothalbete/merblog",
+    "demo": null
+  },
+  {
+    "name": "ratreacom",
+    "description": "Un buscador que rastrea Google en busca de los términos que le introduzcas.",
+    "github": "https://github.com/mothalbete/ratreacom",
+    "demo": null
+  }
+]
